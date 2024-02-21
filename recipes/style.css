@@ -1,0 +1,20 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: bisque;
+}
+
+h1{
+    font-size: 42px;
+    background-color: aquamarine;
+}
+
+h2{
+    font-size: 28px;
+    background-color: aqua;
+
+}
+
+li{
+    text-align: left;
+}
